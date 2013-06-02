@@ -1,0 +1,14 @@
+{
+    "name": "backyard-brood/api",
+    "description": "API for the Backyard Brood application",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adam Englander",
+            "email": "adam.englander@coupla.co"
+        }
+    ],
+    "require": {
+        "silex/silex": "*"
+    }
+}
